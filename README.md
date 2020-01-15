@@ -1,16 +1,10 @@
-# peso_y_masa_muscular
+# peso_y_masa_muscular (Weight and muscle mass)
 
-Aplicación para registrar indicadores nutricionales como peso, masa muscular y grasa corporal.
+Flutter app to save records of certain body nutritional indicators, as weight, BMI, muscle mass and fat mass.
 
-## Getting Started
+The app make use of [charts_flutter](https://pub.dev/packages/charts_flutter), a flutter package that allow us to create charts in a very simple way.
 
-This project is a starting point for a Flutter application.
+The app also make use of [dynamic_theme](https://pub.dev/packages/dynamic_theme), a flutter package to change the theme of our app dynamically and with no effort.
 
-A few resources to get you started if this is your first Flutter project:
+The project implements the BLoC architecture pattern.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
